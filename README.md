@@ -10,10 +10,10 @@ I'm convinced that the programming path is a continuous learning. I like to work
 
 ### STACK
 
-| **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| --------- | HTML | CSS | React Native | React | Redux | React-Routing | Styled-Components | Expo |
-| --------- | NodeJs | Express | PostgreSQL | MongoDB | Sequelize | GraphQL | Apollo | JavaScript |
+|  | HTML | CSS | React Native | React | Redux | React-Routing | Styled-Components | Expo |
+|  | NodeJs | Express | PostgreSQL | MongoDB | Sequelize | GraphQL | Apollo | JavaScript |
 
 ### Soy Henry
 I studied at the Soy Henry bootcamp from October 2020 to February 2021
