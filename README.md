@@ -11,7 +11,7 @@ I'm convinced that the programming path is a continuous learning. I like to work
 ### STACK
 
 | **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |  | HTML | CSS | React Native | React | Redux | React-Routing | Styled-Components | Expo |
 |  | NodeJs | Express | PostgreSQL | MongoDB | Sequelize | GraphQL | Apollo | JavaScript |
 
