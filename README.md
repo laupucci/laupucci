@@ -1,4 +1,4 @@
-<img style="border-radius: 7px;" src="../images/banner.png" width="100%"/>
+<img style="border-radius: 7px;" src="./images/banner.png" width="100%"/>
 
 ### I'm Laura Puccinelli
 
