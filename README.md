@@ -9,7 +9,7 @@ I'm convinced that the programming path is a continuous learning. I like to work
 
 ### STACK
 
-| **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| --------- | ------ | ------- | ------- | ------- | ------- |
 |  | HTML | CSS | React Native | React | Redux | Expo |
-|  | NodeJs | NestJS | PostgreSQL | MongoDB | GraphQL | Apollo | JavaScript |
+|  | NodeJs | NestJS | PostgreSQL | MongoDB | GraphQL | Apollo 
